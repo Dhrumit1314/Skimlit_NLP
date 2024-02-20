@@ -921,7 +921,7 @@ import json
 import requests
 
 # Download and open example abstracts (copy and pasted from PubMed)
-url = "TO DO"
+url = "https://github.com/Dhrumit1314/Skimlit_NLP/blob/main/abstract_data.json"
 response = requests.get(url)
 
 # Check if the download was successful (status code 200)
